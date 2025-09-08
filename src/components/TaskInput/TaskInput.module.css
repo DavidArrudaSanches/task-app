@@ -1,0 +1,12 @@
+input{
+    background-color: rgba(0, 0, 0, 0.2);
+    padding: 30px 50px;
+    border-radius: 0px 0px 0px 15px;
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.3);
+}
+button{
+    background-color: rgba(0, 0, 0, 0.2);
+    padding: 30px 50px;
+    border-radius: 0px 0px 15px 0px;
+    box-shadow: 0 8px 15px rgba(70, 66, 66, 0.3);
+}   
